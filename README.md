@@ -1,0 +1,2 @@
+# Desafio-de-IA
+Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!
